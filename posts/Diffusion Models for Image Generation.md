@@ -67,7 +67,7 @@ The loss (6) was simplied in DDPM paper to
 $$L_t^{simple} = E_{x_0, \epsilon_t}||\epsilon_t - \epsilon_\theta(x_t,t)||^2] \tag{7}$$
 
 ### Training and sampling Algorithm
-![](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/DDPM-algo.png)
+<img src="https://example.com/images/sample.jpg" alt="Algorithms for training and sampling" width="50%" height="50%">
 
 
 ## Improved DDPM
